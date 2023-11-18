@@ -1,19 +1,18 @@
 ---
-title: "Contact"
+title: "Контакты"
 logo: "/img/logo.svg"
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Адрес
+    text: "188800,Выборг"
+  - heading: Часы работы
+    text: "Понедельник-Пятница: 9:00 – 18:00, Выходной день Суббота, Воскресенье"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Мы с удовольствием свяжемся с вами и выслушаем ваши идеи и
+вопросы. Мы стремимся постоянно развиваться и совершенствоваться, и ваши отзывы
+очень важны для нас.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Вы также можете воспользоваться приведенной ниже формой для получения любой информации о нашей продукции
+Не стесняйтесь, напишите нам!
